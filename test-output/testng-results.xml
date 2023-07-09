@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading data url From Propety File]]>
+    </line>
+    <line>
+      <![CDATA[Lunching Browser Application Useing Property File...]]>
+    </line>
+    <line>
+      <![CDATA[Click on Login Page]]>
+    </line>
+    <line>
+      <![CDATA[click myacc]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[clicking on home page singInButton]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[Reading data mobNum From Propety File]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[Entering sign in with password...]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[Reading data pwd From Propety File]]>
+    </line>
+    <line>
+      <![CDATA[Entering pasword...]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[clicking on singin button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[clicking on myaccount button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[clicking on myprofile button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[swiching to child page]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[TC Execution Started for  validateUserName]]>
+    </line>
+    <line>
+      <![CDATA[Getin Actual user name]]>
+    </line>
+    <line>
+      <![CDATA[Reading data UN From Propety File]]>
+    </line>
+    <line>
+      <![CDATA[Tc validateUserName Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicking on logout button]]>
+    </line>
+    <line>
+      <![CDATA[Log out from Policy Bazaar Application]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for complete load page, wait time1000]]>
+    </line>
+    <line>
+      <![CDATA[Close Policy Bazaar Application]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-01T14:38:57 IST" name="Suite" finished-at="2023-07-01T14:39:16 IST" duration-ms="19237">
+    <groups>
+    </groups>
+    <test started-at="2023-07-01T14:38:57 IST" name="Test" finished-at="2023-07-01T14:39:16 IST" duration-ms="19237">
+      <class name="test.PB_TC1234_validatePolicyUserName">
+        <test-method is-config="true" signature="LaunchPolicyBazaar()[pri:0, instance:test.PB_TC1234_validatePolicyUserName@6bbe85a8]" started-at="2023-07-01T14:38:57 IST" name="LaunchPolicyBazaar" finished-at="2023-07-01T14:39:05 IST" duration-ms="8796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data url From Propety File]]>
+            </line>
+            <line>
+              <![CDATA[Lunching Browser Application Useing Property File...]]>
+            </line>
+            <line>
+              <![CDATA[Click on Login Page]]>
+            </line>
+            <line>
+              <![CDATA[click myacc]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchPolicyBazaar -->
+        <test-method is-config="true" signature="signInPolicyBazaar()[pri:0, instance:test.PB_TC1234_validatePolicyUserName@6bbe85a8]" started-at="2023-07-01T14:39:06 IST" name="signInPolicyBazaar" finished-at="2023-07-01T14:39:12 IST" duration-ms="6807" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on home page singInButton]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[Reading data mobNum From Propety File]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[Entering sign in with password...]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[Reading data pwd From Propety File]]>
+            </line>
+            <line>
+              <![CDATA[Entering pasword...]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[clicking on singin button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[clicking on myaccount button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[clicking on myprofile button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[swiching to child page]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInPolicyBazaar -->
+        <test-method signature="validateUserName()[pri:0, instance:test.PB_TC1234_validatePolicyUserName@6bbe85a8]" started-at="2023-07-01T14:39:12 IST" name="validateUserName" finished-at="2023-07-01T14:39:15 IST" duration-ms="2773" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC Execution Started for  validateUserName]]>
+            </line>
+            <line>
+              <![CDATA[Getin Actual user name]]>
+            </line>
+            <line>
+              <![CDATA[Reading data UN From Propety File]]>
+            </line>
+            <line>
+              <![CDATA[Tc validateUserName Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logoutFromPolicyBazaar()[pri:0, instance:test.PB_TC1234_validatePolicyUserName@6bbe85a8]" started-at="2023-07-01T14:39:15 IST" name="logoutFromPolicyBazaar" finished-at="2023-07-01T14:39:15 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on logout button]]>
+            </line>
+            <line>
+              <![CDATA[Log out from Policy Bazaar Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutFromPolicyBazaar -->
+        <test-method is-config="true" signature="closePolicyBrowser()[pri:0, instance:test.PB_TC1234_validatePolicyUserName@6bbe85a8]" started-at="2023-07-01T14:39:15 IST" name="closePolicyBrowser" finished-at="2023-07-01T14:39:16 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for complete load page, wait time1000]]>
+            </line>
+            <line>
+              <![CDATA[Close Policy Bazaar Application]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closePolicyBrowser -->
+      </class> <!-- test.PB_TC1234_validatePolicyUserName -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
